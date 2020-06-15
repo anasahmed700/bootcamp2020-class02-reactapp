@@ -4,7 +4,13 @@
 
 .night{
   background-color: lightgray;
+  padding: 10px;
 }
 .morning{
   background-color: yellow;
+  padding: 10px;
+}
+.class4{
+  background-color: teal;
+  padding: 10px;
 }
